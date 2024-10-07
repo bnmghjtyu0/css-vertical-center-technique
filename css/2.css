@@ -1,0 +1,19 @@
+h2 {
+    text-align: center;
+}
+
+.box {
+    width: 500px;
+    border: 1px solid #f00;
+    margin: auto;
+    line-height: 200px;
+    text-align: center;
+}
+
+.box2 .content {
+    display: inline-block;
+    height: auto;
+    line-height: 1;
+    width: 400px;
+    background: #ccc;
+}
